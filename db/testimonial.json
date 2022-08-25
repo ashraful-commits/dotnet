@@ -1,0 +1,30 @@
+[
+{
+"id":1,
+"img":"img/testimonial-1.jpg",
+"name":"Client Name",
+"rofession":"Profession",
+"text":"Tempor lorem dolor sea et ipsum, lorem justo kasd dolore vero eos. Lorem duo ipsum sea amet et clita dolor"
+},
+{
+"id":2,
+"img":"img/testimonial-2.jpg",
+"name":"Client Name",
+"rofession":"Profession",
+"text":"Tempor lorem dolor sea et ipsum, lorem justo kasd dolore vero eos. Lorem duo ipsum sea amet et clita dolor"
+},
+{
+"id":3,
+"img":"img/testimonial-3.jpg",
+"name":"Client Name",
+"rofession":"Profession",
+"text":"Tempor lorem dolor sea et ipsum, lorem justo kasd dolore vero eos. Lorem duo ipsum sea amet et clita dolor"
+},
+{
+"id":4,
+"img":"img/testimonial-4.jpg",
+"name":"Client Name",
+"rofession":"Profession",
+"text":"Tempor lorem dolor sea et ipsum, lorem justo kasd dolore vero eos. Lorem duo ipsum sea amet et clita dolor"
+}
+]
